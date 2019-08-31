@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+
+    <!-- listview -->
+    <item name="list_temp0" type="id" />
+    <item name="list_temp1" type="id" />
+
+    <!-- textview -->
+    <item name="tx_temp0" type="id" />
+    <item name="tx_temp1" type="id" />
+    <item name="tx_temp2" type="id" />
+    <item name="tx_temp3" type="id" />
+    <item name="tx_temp4" type="id" />
+    <item name="tx_temp5" type="id" />
+    <item name="tx_temp6" type="id" />
+    <item name="tx_temp7" type="id" />
+    <item name="tx_temp8" type="id" />
+    <item name="tx_temp9" type="id" />
+    <item name="tx_temp10" type="id" />
+    <item name="tx_temp11" type="id" />
+    <item name="tx_temp12" type="id" />
+    <item name="tx_temp13" type="id" />
+    <item name="tx_temp14" type="id" />
+    <item name="tx_temp15" type="id" />
+    <item name="tx_temp16" type="id" />
+    <item name="tx_temp17" type="id" />
+    <item name="tx_temp18" type="id" />
+    <item name="tx_temp19" type="id" />
+    <item name="tx_temp20" type="id" />
+    <item name="tx_temp21" type="id" />
+    <item name="tx_temp22" type="id" />
+    <item name="tx_temp23" type="id" />
+    <item name="tx_temp24" type="id" />
+    <item name="tx_temp25" type="id" />
+    <item name="tx_temp26" type="id" />
+    <item name="tx_temp27" type="id" />
+    <item name="tx_temp28" type="id" />
+    <item name="tx_temp29" type="id" />
+    <item name="tx_temp30" type="id" />
+    <item name="tx_temp31" type="id" />
+    <item name="tx_temp32" type="id" />
+    <item name="tx_temp33" type="id" />
+    <item name="tx_temp44" type="id" />
+    <item name="tx_temp55" type="id" />
+    <item name="tx_temp66" type="id" />
+    <item name="tx_temp77" type="id" />
+    <item name="tx_temp88" type="id" />
+    <item name="tx_temp99" type="id" />
+
+    <!-- imageview -->
+    <item name="im_temp0" type="id" />
+    <item name="im_temp1" type="id" />
+    <item name="im_temp2" type="id" />
+    <item name="im_temp3" type="id" />
+    <item name="im_temp4" type="id" />
+    <item name="im_temp5" type="id" />
+    <item name="im_temp6" type="id" />
+    <item name="im_temp7" type="id" />
+    <item name="im_temp8" type="id" />
+    <item name="im_temp9" type="id" />
+    <item name="im_temp10" type="id" />
+    <item name="im_temp11" type="id" />
+    <item name="im_temp12" type="id" />
+    <item name="im_temp13" type="id" />
+    <item name="im_temp14" type="id" />
+    <item name="im_temp15" type="id" />
+    <item name="im_temp16" type="id" />
+    <item name="im_temp17" type="id" />
+    <item name="im_temp18" type="id" />
+
+    <!-- imagebutton -->
+    <item name="imbt_temp0" type="id" />
+    <item name="imbt_temp1" type="id" />
+    <item name="imbt_temp2" type="id" />
+    <item name="imbt_temp3" type="id" />
+    <item name="imbt_temp4" type="id" />
+    <item name="imbt_temp5" type="id" />
+    <item name="imbt_temp6" type="id" />
+    <item name="imbt_temp7" type="id" />
+    <item name="imbt_temp8" type="id" />
+    <item name="imbt_temp9" type="id" />
+    <item name="imbt_temp10" type="id" />
+    <item name="imbt_temp11" type="id" />
+    <item name="imbt_temp12" type="id" />
+    <item name="imbt_temp13" type="id" />
+    <item name="imbt_temp14" type="id" />
+    <item name="imbt_temp15" type="id" />
+    <item name="imbt_temp16" type="id" />
+    <item name="imbt_temp17" type="id" />
+    <item name="imbt_temp18" type="id" />
+    <item name="imbt_temp19" type="id" />
+
+    <!-- button -->
+    <item name="bt_temp0" type="id" />
+    <item name="bt_temp1" type="id" />
+    <item name="bt_temp2" type="id" />
+    <item name="bt_temp3" type="id" />
+    <item name="bt_temp4" type="id" />
+    <item name="bt_temp5" type="id" />
+    <item name="bt_temp6" type="id" />
+    <item name="bt_temp7" type="id" />
+    <item name="bt_temp8" type="id" />
+    <item name="bt_temp9" type="id" />
+    <item name="bt_temp10" type="id" />
+    <item name="bt_temp11" type="id" />
+    <item name="bt_temp12" type="id" />
+    <item name="bt_temp13" type="id" />
+    <item name="bt_temp14" type="id" />
+    <item name="bt_temp15" type="id" />
+    <item name="bt_temp16" type="id" />
+    <item name="bt_temp17" type="id" />
+    <item name="bt_temp18" type="id" />
+    <item name="bt_temp19" type="id" />
+    <item name="bt_temp20" type="id" />
+    <item name="bt_temp21" type="id" />
+    <item name="bt_temp22" type="id" />
+    <item name="bt_temp23" type="id" />
+    <item name="bt_temp24" type="id" />
+    <item name="bt_temp25" type="id" />
+    <item name="bt_temp26" type="id" />
+    <item name="bt_temp27" type="id" />
+    <item name="bt_temp28" type="id" />
+    <item name="bt_temp29" type="id" />
+    <item name="bt_temp30" type="id" />
+    <item name="bt_temp31" type="id" />
+    <item name="bt_temp32" type="id" />
+    <item name="bt_temp33" type="id" />
+    <item name="bt_temp34" type="id" />
+    <item name="bt_temp35" type="id" />
+    <item name="bt_temp36" type="id" />
+    <item name="bt_temp37" type="id" />
+
+    <!-- view -->
+    <item name="view_temp0" type="id" />
+    <item name="view_temp1" type="id" />
+    <item name="view_temp2" type="id" />
+    <item name="view_temp3" type="id" />
+    <item name="view_temp4" type="id" />
+    <item name="view_temp5" type="id" />
+    <item name="view_temp6" type="id" />
+
+    <!-- ViewPager -->
+    <item name="viewpager0" type="id" />
+    <item name="viewpager1" type="id" />
+
+    <!-- EditText -->
+    <item name="edit_temp0" type="id" />
+    <item name="edit_temp1" type="id" />
+    <item name="edit_temp2" type="id" />
+    <item name="edit_temp3" type="id" />
+    <item name="edit_temp4" type="id" />
+    <item name="edit_temp5" type="id" />
+    <item name="edit_temp6" type="id" />
+    <item name="edit_temp7" type="id" />
+    <item name="edit_temp8" type="id" />
+    <item name="edit_temp9" type="id" />
+
+    <!-- RelativeLayout -->
+    <item name="relative_temp0" type="id" />
+    <item name="relative_temp1" type="id" />
+    <item name="relative_temp2" type="id" />
+    <item name="relative_temp3" type="id" />
+    <item name="relative_temp4" type="id" />
+    <item name="relative_temp5" type="id" />
+    <item name="relative_temp6" type="id" />
+    <item name="relative_temp7" type="id" />
+    <item name="relative_temp8" type="id" />
+    <item name="relative_temp9" type="id" />
+    <item name="relative_temp10" type="id" />
+    <item name="relative_temp11" type="id" />
+    <item name="relative_temp22" type="id" />
+    <item name="relative_temp33" type="id" />
+    <item name="relative_temp44" type="id" />
+    <item name="relative_temp55" type="id" />
+    <item name="relative_temp66" type="id" />
+    <item name="relative_temp77" type="id" />
+    <item name="relative_temp88" type="id" />
+    <item name="relative_temp99" type="id" />
+
+    <!-- LineLayout -->
+    <item name="line_temp0" type="id" />
+    <item name="line_temp1" type="id" />
+    <item name="line_temp2" type="id" />
+    <item name="line_temp3" type="id" />
+    <item name="line_temp4" type="id" />
+    <item name="line_temp5" type="id" />
+    <item name="line_temp6" type="id" />
+    <item name="line_temp7" type="id" />
+    <item name="line_temp8" type="id" />
+    <item name="line_temp9" type="id" />
+
+    <!-- WebView -->
+    <item name="web_temp0" type="id" />
+    <item name="web_temp1" type="id" />
+    <item name="web_temp2" type="id" />
+    <item name="web_temp3" type="id" />
+    <item name="web_temp4" type="id" />
+    <item name="web_temp5" type="id" />
+    <item name="web_temp6" type="id" />
+    <item name="web_temp7" type="id" />
+    <item name="web_temp8" type="id" />
+    <item name="web_temp9" type="id" />
+
+    <!-- com.zfl.webapp.setui.XListView -->
+    <item name="xListView" type="id" />
+
+    <!-- CheckBox -->
+    <item name="checkbox_temp0" type="id" />
+    <item name="checkbox_temp1" type="id" />
+
+    <!-- scrollview -->
+    <item name="scroll_temp0" type="id" />
+    <item name="scroll_temp1" type="id" />
+    <item name="scroll_temp2" type="id" />
+    <item name="scroll_temp3" type="id" />
+    <item name="scroll_temp4" type="id" />
+    <item name="scroll_temp5" type="id" />
+    <item name="scroll_temp6" type="id" />
+    <item name="scroll_temp7" type="id" />
+    <item name="scroll_temp8" type="id" />
+    <item name="scroll_temp9" type="id" />
+
+    <!--spinner-->
+    <item name="spinner_temp0" type="id" />
+    <item name="spinner_temp1" type="id" />
+
+    <!--tableRow-->
+    <item name="tablerow_temp0" type="id" />
+    <item name="tablerow_temp1" type="id" />
+    <item name="tablerow_temp2" type="id" />
+    <item name="tablerow_temp3" type="id" />
+    <item name="tablerow_temp4" type="id" />
+    <item name="tablerow_temp5" type="id" />
+    <item name="tablerow_temp6" type="id" />
+    <item name="tablerow_temp7" type="id" />
+    <item name="tablerow_temp8" type="id" />
+    <item name="tablerow_temp9" type="id" />
+
+    <!-- 头部固定 -->
+    <item name="head_textview" type="id" />
+    <item name="head_textviewleft" type="id" />
+    <item name="head_textviewright" type="id" />
+    <item name="head_image_left" type="id" />
+    <item name="head_image_right" type="id" />
+    <item name="head_btn_left" type="id" />
+    <item name="head_btn_right" type="id" />
+    
+
+</resources>

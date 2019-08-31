@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white">
+
+        <ImageView
+            android:id="@id/im_temp0"
+            android:layout_width="50dip"
+            android:layout_height="50dip"
+            android:layout_margin="10dip"
+            android:contentDescription="@string/app_name"
+            android:scaleType="centerCrop" />
+
+        <TextView
+            android:id="@id/tx_temp0"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@id/im_temp0"
+            android:layout_toRightOf="@id/im_temp0"
+            android:textColor="@color/gray"
+            android:textSize="12sp" />
+
+        <EditText
+            android:id="@id/edit_temp0"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tx_temp0"
+            android:layout_marginRight="10dip"
+            android:layout_toRightOf="@id/im_temp0"
+            android:cursorVisible="false"
+            android:focusable="false"
+            android:focusableInTouchMode="false"
+            android:textColor="@color/black"
+            android:textSize="16sp" />
+
+        <ImageView
+            android:id="@id/im_temp1"
+            android:layout_width="50dip"
+            android:layout_height="50dip"
+            android:layout_alignParentRight="true"
+            android:layout_margin="10dip"
+            android:contentDescription="@string/app_name"
+            android:scaleType="centerCrop" />
+
+        <TextView
+            android:id="@id/tx_temp1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@id/im_temp1"
+            android:layout_toLeftOf="@id/im_temp1"
+            android:textColor="@color/gray"
+            android:textSize="12sp" />
+
+        <EditText
+            android:id="@id/edit_temp1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tx_temp1"
+            android:layout_marginLeft="10dip"
+            android:layout_toLeftOf="@id/im_temp1"
+            android:cursorVisible="false"
+            android:focusable="false"
+            android:focusableInTouchMode="false"
+            android:textColor="@color/black"
+            android:textSize="16sp" />
+
+    </RelativeLayout>
+</LinearLayout>

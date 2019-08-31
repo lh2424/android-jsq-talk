@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">急速Q</string>
+    <string name="quit_app">退出登录成功</string>
+
+    <string name="logn_text">登录编号4字节:0~2147483647</string>
+    <string name="other_text">对方编号4字节:0~2147483647</string>
+    <string name="logn_in">登录</string>
+    <string name="talk_to">聊天</string>
+
+    <string name="talk_index">聊天首页</string>
+    <string name="talk_description">聊天编号为无符号4字节的数</string>
+
+    <!-- 下拉刷新 -->
+    <string name="xlistview_header_hint_normal">下拉刷新</string>
+    <string name="xlistview_header_hint_ready">松开刷新数据</string>
+    <string name="xlistview_header_hint_loading">正在加载</string>
+    <string name="xlistview_header_last_time">上次更新时间：</string>
+    <string name="xlistview_footer_hint_normal">上拉查看更多</string>
+    <string name="xlistview_footer_hint_ready">松开载入更多</string>
+</resources>
